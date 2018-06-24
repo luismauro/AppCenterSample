@@ -26,7 +26,7 @@ namespace AppCenterSample
         protected override async void OnInitialized()
         {
             InitializeComponent();
-
+            Analytics.TrackEvent("Abriu página inicial");
             await NavigationService.NavigateAsync("NavigationPage/MainPage");
         }
 
@@ -41,6 +41,7 @@ namespace AppCenterSample
         {
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage>();
+            containerRegistry.RegisterForNavigation<SecondPage>();
         }
     }
 }

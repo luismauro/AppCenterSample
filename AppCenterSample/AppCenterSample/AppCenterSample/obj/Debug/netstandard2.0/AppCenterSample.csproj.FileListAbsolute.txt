@@ -1,0 +1,11 @@
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\netstandard2.0\AppCenterSample.deps.json
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\netstandard2.0\AppCenterSample.dll
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\netstandard2.0\AppCenterSample.pdb
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\netstandard2.0\AppCenterSample.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\netstandard2.0\AppCenterSample.App.xaml.g.cs
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\netstandard2.0\AppCenterSample.Views.MainPage.xaml.g.cs
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\netstandard2.0\AppCenterSample.AssemblyInfoInputs.cache
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\netstandard2.0\AppCenterSample.AssemblyInfo.cs
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\netstandard2.0\AppCenterSample.dll
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\netstandard2.0\AppCenterSample.pdb
+C:\Users\Luis Mauro\Desktop\AppCenterSample\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\netstandard2.0\AppCenterSample.Views.SecondPage.xaml.g.cs
